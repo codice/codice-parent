@@ -29,9 +29,9 @@
         <url>https://github.com/codice/codice-parent.git</url>
         <connection>scm:git:https://github.com/codice/codice-parent.git</connection>
         <developerConnection>scm:git:git@github.com:codice/codice-parent.git</developerConnection>
-      <tag>Codice-Parent-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <properties>
